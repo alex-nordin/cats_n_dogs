@@ -2,3 +2,13 @@ name = "cats_n_dogs"
 uuid = "a4054be7-a767-4f6d-84e4-f61af3a80671"
 authors = ["alexn "]
 version = "0.1.0"
+
+[deps]
+CUDA = "052768ef-5323-5732-b1bb-66c8b64840ba"
+DataAugmentation = "88a5189c-e7ff-4f85-ac6b-e6158070f02e"
+Flux = "587475ba-b771-5e3f-ad9e-33799f191a9c"
+MLUtils = "f1d291b0-491e-4a28-83b9-f70985020b54"
+Metalhead = "dbeba491-748d-5e0e-a39e-b530a07fa0cc"
+Random = "9a3f8284-a2c9-5f02-9a11-845980a1fd5c"
+Zygote = "e88e6eb3-aa80-5325-afca-941959d7151f"
+cuDNN = "02a925ec-e4fe-4b08-9a7e-0d78e3d38ccd"
